@@ -17,9 +17,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /schools-commerical-team-upptime/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Schools Commercial Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: See uptime status across schools commercial deplyed applications.
+  name: Schools Commercial Team
   navbar:
     - title: Status
       href: /
