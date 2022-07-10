@@ -4,19 +4,19 @@
     "url": "https://staging-get-help-buying-for-schools.education.gov.uk/",
     "icon": "https://favicons.githubusercontent.com/staging-get-help-buying-for-schools.education.gov.uk",
     "slug": "ghbs-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 870,
-    "timeWeek": 755,
-    "timeMonth": 778,
-    "timeYear": 737,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.91%",
+    "time": 795,
+    "timeDay": 3239,
+    "timeWeek": 1362,
+    "timeMonth": 933,
+    "timeYear": 795,
     "dailyMinutesDown": {
-      "2022-07-10": 0
+      "2022-07-10": 107
     }
   },
   {
