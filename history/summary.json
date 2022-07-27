@@ -25,18 +25,20 @@
     "url": "https://www.get-help-buying-for-schools.service.gov.uk/",
     "icon": "https://favicons.githubusercontent.com/www.get-help-buying-for-schools.service.gov.uk",
     "slug": "ghbs-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 730,
-    "timeDay": 1052,
-    "timeWeek": 718,
-    "timeMonth": 787,
+    "timeDay": 878,
+    "timeWeek": 717,
+    "timeMonth": 784,
     "timeYear": 730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   },
   {
     "name": "FaF Production",
