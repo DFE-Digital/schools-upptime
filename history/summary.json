@@ -10,11 +10,11 @@
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.90%",
-    "time": 773,
-    "timeDay": 631,
-    "timeWeek": 688,
-    "timeMonth": 860,
-    "timeYear": 773,
+    "time": 772,
+    "timeDay": 662,
+    "timeWeek": 706,
+    "timeMonth": 863,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2022-07-25": 42,
       "2022-07-10": 107
@@ -27,15 +27,15 @@
     "slug": "ghbs-production",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 730,
-    "timeDay": 716,
-    "timeWeek": 730,
+    "time": 729,
+    "timeDay": 668,
+    "timeWeek": 737,
     "timeMonth": 776,
-    "timeYear": 730,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2022-07-27": 12
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 616,
-    "timeDay": 495,
-    "timeWeek": 643,
-    "timeMonth": 666,
-    "timeYear": 616,
+    "time": 615,
+    "timeDay": 538,
+    "timeWeek": 645,
+    "timeMonth": 665,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2022-06-07": 9
     }
