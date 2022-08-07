@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/staging-get-help-buying-for-schools.education.gov.uk",
     "slug": "ghbs-staging",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 778,
-    "timeDay": 997,
-    "timeWeek": 864,
+    "timeDay": 746,
+    "timeWeek": 878,
     "timeMonth": 885,
     "timeYear": 778,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 741,
-    "timeDay": 1061,
-    "timeWeek": 929,
-    "timeMonth": 814,
-    "timeYear": 741,
+    "time": 740,
+    "timeDay": 638,
+    "timeWeek": 905,
+    "timeMonth": 790,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2022-07-27": 12
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 619,
-    "timeDay": 717,
-    "timeWeek": 690,
-    "timeMonth": 661,
-    "timeYear": 619,
+    "time": 618,
+    "timeDay": 536,
+    "timeWeek": 680,
+    "timeMonth": 657,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2022-06-07": 9
     }
