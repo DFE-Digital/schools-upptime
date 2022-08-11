@@ -8,7 +8,9 @@ sites:
   - name: GHBS Production
     url: https://www.get-help-buying-for-schools.service.gov.uk/
   - name: FaF Production
-    url: https://find-dfe-approved-framework.service.gov.uk/
+    url: https://find-dfe-approved-framework.service.gov.uk/find/type
+  - name: FaF Test
+    url: https://s107d01-webapp-v2-01.azurewebsites.net/find/type
 
 
 status-website:
