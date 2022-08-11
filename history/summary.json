@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 779,
-    "timeDay": 692,
-    "timeWeek": 821,
-    "timeMonth": 736,
-    "timeYear": 779,
+    "time": 778,
+    "timeDay": 659,
+    "timeWeek": 796,
+    "timeMonth": 733,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2022-07-25": 42,
       "2022-07-10": 107
@@ -31,18 +31,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 740,
-    "timeDay": 685,
-    "timeWeek": 791,
-    "timeMonth": 776,
-    "timeYear": 740,
+    "time": 739,
+    "timeDay": 653,
+    "timeWeek": 770,
+    "timeMonth": 772,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2022-07-27": 12
     }
   },
   {
     "name": "FaF Production",
-    "url": "https://find-dfe-approved-framework.service.gov.uk/",
+    "url": "https://find-dfe-approved-framework.service.gov.uk/find/type",
     "icon": "https://favicons.githubusercontent.com/find-dfe-approved-framework.service.gov.uk",
     "slug": "fa-f-production",
     "status": "up",
@@ -51,13 +51,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 616,
-    "timeDay": 535,
-    "timeWeek": 577,
-    "timeMonth": 624,
-    "timeYear": 616,
+    "time": 614,
+    "timeDay": 501,
+    "timeWeek": 563,
+    "timeMonth": 620,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2022-06-07": 9
     }
+  },
+  {
+    "name": "FaF Test",
+    "url": "https://s107d01-webapp-v2-01.azurewebsites.net/find/type",
+    "icon": "https://favicons.githubusercontent.com/s107d01-webapp-v2-01.azurewebsites.net",
+    "slug": "fa-f-test",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 536,
+    "timeDay": 536,
+    "timeWeek": 536,
+    "timeMonth": 536,
+    "timeYear": 536,
+    "dailyMinutesDown": {}
   }
 ]
