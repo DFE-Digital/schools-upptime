@@ -84,19 +84,17 @@
     "icon": "https://favicons.githubusercontent.com/s107d01-webapp-v2-01.azurewebsites.net",
     "slug": "fa-f-test",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 552,
     "timeDay": 551,
     "timeWeek": 547,
     "timeMonth": 553,
     "timeYear": 552,
-    "dailyMinutesDown": {
-      "2022-09-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FaF Test - List page",
