@@ -103,18 +103,19 @@
     "url": "https://s107d01-webapp-v2-01.azurewebsites.net/list",
     "icon": "https://favicons.githubusercontent.com/s107d01-webapp-v2-01.azurewebsites.net",
     "slug": "fa-f-test-list-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 211,
-    "timeWeek": 233,
-    "timeMonth": 256,
-    "timeYear": 284,
+    "time": 281,
+    "timeDay": 197,
+    "timeWeek": 223,
+    "timeMonth": 252,
+    "timeYear": 281,
     "dailyMinutesDown": {
+      "2022-09-30": 0,
       "2022-09-29": 0
     }
   }
