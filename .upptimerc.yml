@@ -11,10 +11,10 @@ sites:
     url: https://find-dfe-approved-framework.service.gov.uk/find/type
   - name: FaF Production - List page
     url: https://find-dfe-approved-framework.service.gov.uk/list
-  - name: FaF Test
-    url: https://s107d01-webapp-v2-01.azurewebsites.net/find/type
-  - name: FaF Test - List page
-    url: https://s107d01-webapp-v2-01.azurewebsites.net/list
+#   - name: FaF Test
+#     url: https://s107d01-webapp-v2-01.azurewebsites.net/find/type
+#   - name: FaF Test - List page
+#     url: https://s107d01-webapp-v2-01.azurewebsites.net/list
 
 
 status-website:
