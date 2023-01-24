@@ -45,19 +45,19 @@
     "url": "https://find-dfe-approved-framework.service.gov.uk/find/type",
     "icon": "https://icons.duckduckgo.com/ip3/find-dfe-approved-framework.service.gov.uk.ico",
     "slug": "fa-f-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 628,
-    "timeDay": 662,
-    "timeWeek": 646,
-    "timeMonth": 660,
+    "timeDay": 624,
+    "timeWeek": 639,
+    "timeMonth": 658,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2023-01-24": 2,
+      "2023-01-24": 7,
       "2022-06-07": 9
     }
   },
@@ -66,19 +66,19 @@
     "url": "https://find-dfe-approved-framework.service.gov.uk/list",
     "icon": "https://icons.duckduckgo.com/ip3/find-dfe-approved-framework.service.gov.uk.ico",
     "slug": "fa-f-production-list-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 264,
-    "timeWeek": 256,
+    "time": 393,
+    "timeDay": 265,
+    "timeWeek": 257,
     "timeMonth": 265,
-    "timeYear": 394,
+    "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 6
     }
   }
 ]
