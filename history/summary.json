@@ -25,18 +25,19 @@
     "url": "https://www.get-help-buying-for-schools.service.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.get-help-buying-for-schools.service.gov.uk.ico",
     "slug": "ghbs-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 793,
-    "timeDay": 581,
-    "timeWeek": 1014,
+    "timeDay": 709,
+    "timeWeek": 992,
     "timeMonth": 853,
     "timeYear": 793,
     "dailyMinutesDown": {
+      "2023-02-02": 0,
       "2022-07-27": 12
     }
   },
@@ -53,7 +54,7 @@
     "uptimeYear": "100.00%",
     "time": 634,
     "timeDay": 423,
-    "timeWeek": 833,
+    "timeWeek": 738,
     "timeMonth": 693,
     "timeYear": 634,
     "dailyMinutesDown": {
@@ -73,7 +74,7 @@
     "uptimeYear": "100.00%",
     "time": 386,
     "timeDay": 205,
-    "timeWeek": 283,
+    "timeWeek": 302,
     "timeMonth": 267,
     "timeYear": 386,
     "dailyMinutesDown": {}
