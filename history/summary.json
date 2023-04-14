@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 807,
-    "timeDay": 895,
-    "timeWeek": 750,
+    "timeDay": 885,
+    "timeWeek": 767,
     "timeMonth": 861,
     "timeYear": 807,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
-    "timeDay": 971,
-    "timeWeek": 700,
-    "timeMonth": 703,
+    "timeDay": 819,
+    "timeWeek": 724,
+    "timeMonth": 701,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2022-07-27": 12
@@ -47,17 +47,16 @@
     "slug": "fa-f-production",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 640,
-    "timeDay": 628,
-    "timeWeek": 672,
+    "timeDay": 621,
+    "timeWeek": 665,
     "timeMonth": 669,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2023-04-13": 9,
       "2022-06-07": 9
     }
   },
@@ -68,17 +67,15 @@
     "slug": "fa-f-production-list-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 352,
-    "timeDay": 276,
-    "timeWeek": 273,
-    "timeMonth": 268,
+    "timeDay": 275,
+    "timeWeek": 280,
+    "timeMonth": 269,
     "timeYear": 352,
-    "dailyMinutesDown": {
-      "2023-04-13": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
