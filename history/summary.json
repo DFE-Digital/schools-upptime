@@ -45,9 +45,9 @@
     "url": "https://find-dfe-approved-framework.service.gov.uk/find/type",
     "icon": "https://icons.duckduckgo.com/ip3/find-dfe-approved-framework.service.gov.uk.ico",
     "slug": "fa-f-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 605,
     "timeMonth": 640,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-09": 0
+    }
   },
   {
     "name": "FaF Production - List page",
