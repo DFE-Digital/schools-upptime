@@ -45,10 +45,10 @@
     "url": "https://find-dfe-approved-framework.service.gov.uk/find/type",
     "icon": "https://icons.duckduckgo.com/ip3/find-dfe-approved-framework.service.gov.uk.ico",
     "slug": "fa-f-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
@@ -56,16 +56,18 @@
     "timeWeek": 618,
     "timeMonth": 639,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-10": 2
+    }
   },
   {
     "name": "FaF Production - List page",
     "url": "https://find-dfe-approved-framework.service.gov.uk/list",
     "icon": "https://icons.duckduckgo.com/ip3/find-dfe-approved-framework.service.gov.uk.ico",
     "slug": "fa-f-production-list-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +76,8 @@
     "timeWeek": 259,
     "timeMonth": 250,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-10": 0
+    }
   }
 ]
