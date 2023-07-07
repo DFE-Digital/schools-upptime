@@ -5,10 +5,19 @@ repo: schools-upptime # The name of this repository
 sites:
   - name: Get Help Buying for Schools
     url: https://www.get-help-buying-for-schools.service.gov.uk/
+    assignees:
+      - ryantk
+      - EdwinKruglov
   - name: Find a Framework
     url: https://find-dfe-approved-framework.service.gov.uk/find/type
+    assignees:
+      - ryantk
+      - EdwinKruglov
   - name: Find a Framework - List page
     url: https://find-dfe-approved-framework.service.gov.uk/list
+    assignees:
+      - ryantk
+      - EdwinKruglov
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,8 +34,4 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-assignees:
-  - ryantk
-  - EdwinKruglov
 
