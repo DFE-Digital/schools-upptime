@@ -11,19 +11,15 @@ sites:
     url: https://find-dfe-approved-framework.service.gov.uk/find/type
   - name: FaF Production - List page
     url: https://find-dfe-approved-framework.service.gov.uk/list
-#   - name: FaF Test
-#     url: https://s107d01-webapp-v2-01.azurewebsites.net/find/type
-#   - name: FaF Test - List page
-#     url: https://s107d01-webapp-v2-01.azurewebsites.net/list
 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /schools-commerical-team-upptime/
+  baseUrl: /schools-upptime/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Schools Commercial Team
+  name: Schools Services
   navbar:
     - title: Status
       href: /
@@ -36,5 +32,4 @@ status-website:
 assignees:
   - ryantk
   - EdwinKruglov
-  - serenaabbott11
-  - atifmir-0136
+  
