@@ -1,83 +1,56 @@
 [
   {
-    "name": "GHBS Staging",
-    "url": "https://staging-get-help-buying-for-schools.education.gov.uk/",
-    "icon": "https://icons.duckduckgo.com/ip3/staging-get-help-buying-for-schools.education.gov.uk.ico",
-    "slug": "ghbs-staging",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 779,
-    "timeDay": 571,
-    "timeWeek": 629,
-    "timeMonth": 678,
-    "timeYear": 789,
-    "dailyMinutesDown": {
-      "2022-07-25": 42,
-      "2022-07-10": 107
-    }
-  },
-  {
-    "name": "GHBS Production",
+    "name": "Get Help Buying for Schools",
     "url": "https://www.get-help-buying-for-schools.service.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.get-help-buying-for-schools.service.gov.uk.ico",
-    "slug": "ghbs-production",
+    "slug": "get-help-buying-for-schools",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 771,
-    "timeDay": 472,
-    "timeWeek": 605,
-    "timeMonth": 765,
-    "timeYear": 782,
-    "dailyMinutesDown": {
-      "2022-07-27": 12
-    }
+    "time": 1092,
+    "timeDay": 1092,
+    "timeWeek": 1092,
+    "timeMonth": 1092,
+    "timeYear": 1092,
+    "dailyMinutesDown": {}
   },
   {
-    "name": "FaF Production",
+    "name": "Find a Framework",
     "url": "https://find-dfe-approved-framework.service.gov.uk/find/type",
     "icon": "https://icons.duckduckgo.com/ip3/find-dfe-approved-framework.service.gov.uk.ico",
-    "slug": "fa-f-production",
+    "slug": "find-a-framework",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 652,
-    "timeDay": 565,
-    "timeWeek": 633,
-    "timeMonth": 834,
-    "timeYear": 663,
-    "dailyMinutesDown": {
-      "2023-06-10": 27
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
+    "dailyMinutesDown": {}
   },
   {
-    "name": "FaF Production - List page",
+    "name": "Find a Framework - List page",
     "url": "https://find-dfe-approved-framework.service.gov.uk/list",
     "icon": "https://icons.duckduckgo.com/ip3/find-dfe-approved-framework.service.gov.uk.ico",
-    "slug": "fa-f-production-list-page",
+    "slug": "find-a-framework-list-page",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 326,
-    "timeDay": 229,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 326,
-    "dailyMinutesDown": {
-      "2023-06-10": 25
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 215,
+    "timeDay": 215,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
+    "dailyMinutesDown": {}
   }
 ]
