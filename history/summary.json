@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 703,
-    "timeDay": 1072,
-    "timeWeek": 770,
-    "timeMonth": 745,
-    "timeYear": 703,
+    "time": 706,
+    "timeDay": 1015,
+    "timeWeek": 794,
+    "timeMonth": 752,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2023-08-08": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 726,
-    "timeWeek": 660,
-    "timeMonth": 618,
-    "timeYear": 623,
+    "time": 624,
+    "timeDay": 707,
+    "timeWeek": 663,
+    "timeMonth": 620,
+    "timeYear": 624,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 341,
-    "timeWeek": 272,
-    "timeMonth": 247,
-    "timeYear": 250,
+    "time": 252,
+    "timeDay": 340,
+    "timeWeek": 280,
+    "timeMonth": 250,
+    "timeYear": 252,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Plan Technology For Your School",
+    "url": "https://plan-technology-for-your-school.education.gov.uk/",
+    "icon": "https://icons.duckduckgo.com/ip3/plan-technology-for-your-school.education.gov.uk.ico",
+    "slug": "plan-technology-for-your-school",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 840,
+    "timeDay": 840,
+    "timeWeek": 840,
+    "timeMonth": 840,
+    "timeYear": 840,
     "dailyMinutesDown": {}
   }
 ]
