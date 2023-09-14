@@ -8,16 +8,24 @@ sites:
     assignees:
       - ryantk
       - EdwinKruglov
+  
   - name: Find a Framework
     url: https://find-dfe-approved-framework.service.gov.uk/find/type
     assignees:
       - ryantk
       - EdwinKruglov
+  
   - name: Find a Framework - List page
     url: https://find-dfe-approved-framework.service.gov.uk/list
     assignees:
       - ryantk
       - EdwinKruglov
+
+  - name: Plan Technology For Your School
+    url: https://plan-technology-for-your-school.education.gov.uk/ 
+    assignees:
+       - kolevk
+       - MamoodSultanDfE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
