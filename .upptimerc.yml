@@ -22,7 +22,7 @@ sites:
       - EdwinKruglov
 
   - name: Plan Technology For Your School
-    url: https://plan-technology-for-your-school.education.gov.uk/ 
+    url: https://www.plan-technology-for-your-school.education.gov.uk/
     assignees:
        - kolevk
        - MamoodSultanDfE
