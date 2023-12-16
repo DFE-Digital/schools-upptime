@@ -25,19 +25,19 @@
     "url": "https://find-dfe-approved-framework.service.gov.uk/find/type",
     "icon": "https://icons.duckduckgo.com/ip3/find-dfe-approved-framework.service.gov.uk.ico",
     "slug": "find-a-framework",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 533,
-    "timeWeek": 587,
-    "timeMonth": 569,
+    "timeDay": 574,
+    "timeWeek": 590,
+    "timeMonth": 571,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-12-16": 0
+      "2023-12-16": 9
     }
   },
   {
