@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 755,
-    "timeDay": 954,
-    "timeWeek": 777,
-    "timeMonth": 705,
-    "timeYear": 755,
+    "time": 754,
+    "timeDay": 494,
+    "timeWeek": 758,
+    "timeMonth": 698,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2023-09-16": 17,
       "2023-08-08": 27
@@ -27,18 +27,16 @@
     "slug": "find-a-framework",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 574,
-    "timeWeek": 590,
-    "timeMonth": 571,
-    "timeYear": 634,
-    "dailyMinutesDown": {
-      "2023-12-16": 9
-    }
+    "time": 633,
+    "timeDay": 567,
+    "timeWeek": 601,
+    "timeMonth": 570,
+    "timeYear": 633,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Find a Framework - List page",
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 197,
+    "timeDay": 198,
     "timeWeek": 237,
-    "timeMonth": 232,
+    "timeMonth": 231,
     "timeYear": 252,
     "dailyMinutesDown": {}
   },
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 646,
-    "timeDay": 506,
-    "timeWeek": 619,
-    "timeMonth": 568,
-    "timeYear": 646,
+    "time": 647,
+    "timeDay": 745,
+    "timeWeek": 647,
+    "timeMonth": 576,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2023-09-21": 20
     }
